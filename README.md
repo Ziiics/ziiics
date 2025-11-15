@@ -10,23 +10,23 @@
 <table>
   <tr>
     <td><strong>CompTIA A+</strong></td>
-    <td><a href="#">View</a></td>
+    <td><a href="Cert/CompTIA_A+.pdf">View</a></td>
   </tr>
   <tr>
     <td><strong>CompTIA Network+</strong></td>
-    <td><a href="#">View</a></td>
+    <td><a href="Cert/CompTIA_Network+.pdf">View</a></td>
   </tr>
   <tr>
     <td><strong>AWS Cloud Practitioner</strong></td>
-    <td><a href="#">View</a></td>
+    <td><a href="Cert/AWS_SimuLearn_Main_CloudPractitioner.pdf">View</a></td>
   </tr>
   <tr>
     <td><strong>Google Cybersecurity</strong></td>
-    <td><a href="#">View</a></td>
+    <td><a href="Cert/Google_CyberSecuirty_Foundations of Cybersecurity.pdf">View</a></td>
   </tr>
   <tr>
     <td><strong>CodePath Cybersecurity</strong></td>
-    <td><a href="#">View</a></td>
+    <td><a href="Cert/CodePath_CyberRisk.pdf">View</a></td>
   </tr>
 </table>
 
