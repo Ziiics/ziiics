@@ -77,7 +77,7 @@
 ---
 
 ## 🔗 Projects
-- 🌐 [Project 1: Static Website on AWS](https://github.com/zivanacs/Cloud_Projects?Project01-StaticWebpage)
+- 🌐 [Project 1: Static Website on AWS](https://github.com/Ziiics/Cloud_Projects/tree/378ed445d058eef1fc4388f47833511a99c9eb27/Project01-StaticWebpage)
 - 🏗️ Project 2: EC2 + RDS Architecture (coming soon)
 ---
 
