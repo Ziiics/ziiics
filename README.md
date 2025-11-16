@@ -45,6 +45,15 @@
 
 ---
 
+### 🧱 Cloud & DevOps Skills
+- AWS (S3, EC2, CloudFront, Route 53, IAM)
+- VPC design (subnets, routing tables, NAT/IGW)
+- Git & GitHub (version control + CI/CD basics)
+<!--- Terraform (beginner) - Python scripting (beginner)
+- Linux (SSH, permissions, processes) -->
+
+--- 
+
 ### 🌐 Networking Skills  
 - TCP/IP fundamentals  
 - Subnetting, VLANs, trunking  
@@ -67,12 +76,9 @@
 
 ---
 
-### 📚 Currently Learning  
-- **CCNA (Routing, Switching, OSPF, VLANs, IPv6)**  
-- **Virtualization & Home Lab Building**  
-- **Cloud Fundamentals (AWS)**  
-- Strengthening backend + system skills  
-
+## 🔗 Projects
+- 🌐 [Project 1: Static Website on AWS](https://github.com/zivanacs/Cloud_Projects?Project01-StaticWebpage)
+- 🏗️ Project 2: EC2 + RDS Architecture (coming soon)
 ---
 
 ### 🎨 Hobbies & Interests  
