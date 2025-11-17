@@ -78,7 +78,7 @@
 
 ## 🔗 Projects
 - 🌐 [Project 1: Static Website on AWS](https://github.com/Ziiics/Cloud_Projects/tree/378ed445d058eef1fc4388f47833511a99c9eb27/Project01-StaticWebpage)
-- 🏗️ Project 2: EC2 + RDS Architecture (coming soon)
+- 🏗️ Project 2: Two-Tier Infrastructure (coming soon)
 ---
 
 ### 🎨 Hobbies & Interests  
